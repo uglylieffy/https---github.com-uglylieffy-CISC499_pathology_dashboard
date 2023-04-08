@@ -18,8 +18,8 @@ For the purpose of the pathology dashboard, please install additional module and
 * npm i multiselect-react-dropdown
 * npm i react-string-format
 
-***Please refer to the [Installation](#installation) and [Basic usage](#basic-usage) for proper render***
-
+***Please refer to the [Installation](#installation) and [Basic usage](#basic-usage) for proper render.***<br>
+# Below is Original Content
 ## Table of Contents
 
 * [Versions](#versions)
