@@ -4,7 +4,6 @@ import CIcon from '@coreui/icons-react'
 import { logo } from 'src/assets/brand/logo'
 
 const AppHeader = () => {
-
   return (
     <CHeader position="sticky" className="mb-4">
       <CContainer fluid>
