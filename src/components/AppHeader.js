@@ -1,12 +1,5 @@
 import React from 'react'
-import { useSelector, useDispatch } from 'react-redux'
-import {
-  CContainer,
-  CHeader,
-  CHeaderBrand,
-  CHeaderNav,
-  CNavItem,
-} from '@coreui/react'
+import { CContainer, CHeader, CHeaderBrand, CHeaderNav, CNavItem } from '@coreui/react'
 import CIcon from '@coreui/icons-react'
 import { logo } from 'src/assets/brand/logo'
 
